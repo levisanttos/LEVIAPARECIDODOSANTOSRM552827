@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+/* .container {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #333;
+    display: flex; /* faz com que os filhos dessa div fiquem um ao lado do outro*/
+    /*flex-direction: row; /* por padrão o display flex já row*/
+   /* justify-content: center;*/
+/*}*/
+
+
+div {
+    margin: auto;
+    padding: 10px;
+}
+.tabela {
+    width: 100%;
+    margin: 20px;
+    padding: 30px;
+}
+table {
+    width: 100%;
+    margin: 20px;
+    padding: 30px;
+}
+h1 {
+    text-align: center;
+}
+.btn_pesquisar {
+    margin-top: 22px;
+}
+.fundoDiv {
+    width: 100%;
+    height: 500px;
+    margin: 10px auto;
+    padding: 30px 0;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    border-radius: 7px;
+    background-color: #ccc;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    margin: 20px auto;
+}
+
+p {
+    width: 20px;
+    height: 200px;
+    margin: 2px;
+    padding: 4px;
+}
